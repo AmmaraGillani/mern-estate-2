@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import { getSearchParamsForLocation } from 'react-router-dom/dist/dom';
+
 
 const userSchema = new mongoose.Schema({
 
